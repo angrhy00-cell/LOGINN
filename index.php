@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>LOGIN NUGRAH</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 	<h2>Halaman Admin</h2>
